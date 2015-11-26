@@ -1,5 +1,6 @@
 {
-  "name": "LayerList",
+  "name": "LayerListLite",
+  "label": "Layer List Lite",
   "2D": true,
   "platform": "HTML",
   "version": "1.3",

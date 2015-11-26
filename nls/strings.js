@@ -1,6 +1,6 @@
 define({
   root: ({
-    _widgetLabel: "Layer List",
+    _widgetLabel: "Layer List Lite",
     titleBasemap: "Basemaps",
     titleLayers: "Operational Layers",
     labelLayer: "Layer Name",
