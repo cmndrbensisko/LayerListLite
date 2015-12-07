@@ -6,7 +6,7 @@
   "version": "1.3",
   "wabVersion": "1.3",
   "author": "Esri R&D Center Beijing",
-  "description": "",
+  "description": "The LayerListLite Widget for ArcGIS Web AppBuilder is intended as an optional replacement for the LayerList widget included by default with the Web Appbuilder. Dynamic ArcGIS MapService Layers appearing within the LayerList widget will only display subLayers which are either visible by default, or have a popup enabled. This allows for only displaying sublayers of importance and interest to the end user.",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0"
 }
